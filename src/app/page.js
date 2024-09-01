@@ -20,7 +20,7 @@ export default function Home() {
           onClick={handleClick}
         >
           <div className="flex flex-row justify-center items-center">
-            <p className="text-lg">click me alfu</p>
+            <p className="text-lg">click me aleffiyah</p>
             <img src="emoji.gif" alt="" className="h-8 my-auto mx-2" />
           </div>
         </button>
